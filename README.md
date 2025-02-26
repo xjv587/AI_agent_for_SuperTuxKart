@@ -2,7 +2,7 @@
 Key Skills: Machine Learning, Deep Learning, Reinforcement Learning, Imitation Learning, Computer Vision, Data Augmentation, Python
 
 # Overview:
-Developed an intelligent game-playing agent for SuperTuxKart Ice Hockey, an environment similar to Rocket League. The project explored multiple learning approaches—vision-based learning, reinforcement learning, and imitation learning—to train an agent capable of maximizing goals scored.
+I led the team and developed an intelligent game-playing agent for SuperTuxKart Ice Hockey, an environment similar to Rocket League. The project explored multiple learning approaches—vision-based learning, reinforcement learning, and imitation learning—to train an agent capable of maximizing goals scored.
 
 # Technical Approach
 - **Vision Learning:** Built a Convolutional Neural Network (CNN) to detect and track the puck in images. Despite achieving 90% accuracy in puck detection, real-time decision-making challenges led to pivoting towards state-based methods.
