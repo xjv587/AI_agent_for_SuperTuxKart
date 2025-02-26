@@ -9,6 +9,11 @@ Developed an intelligent game-playing agent for SuperTuxKart Ice Hockey, an envi
 - **Reinforcement Learning (RL):** Implemented Proximal Policy Optimization (PPO) to learn optimal strategies based on rewards. However, tuning the reward function proved challenging, leading to suboptimal policies.
 - **Imitation Learning (Final Approach):** Trained a model to mimic a high-scoring expert agent (Jurgen). Used a dataset of 8.7 million observations collected from 4000 games, feeding them into a shallow linear neural network to predict optimal actions (acceleration, steering, braking).
 
+1-min video clip
+https://github.com/user-attachments/assets/9873b547-6ef4-4d04-b8bf-3e5edbfbb638
+
+
+
 # Results
 - The imitation learning agent successfully learned to emulate expert behavior, achieving 28 goals across 32 games—nearly matching the expert's performance.
 - Data augmentation techniques (increasing goal-adjacent frames and adding random noise) significantly improved consistency and goal-scoring ability.
